@@ -12,6 +12,10 @@
 
 ### 🚀 Transforming Retail Data into Actionable Business Insights
 
+<a href="https://nikhilmore2003.github.io/Blinkit-Sales-Analysis-PowerBI/"><img src="https://img.shields.io/badge/🔴_LIVE-Try_the_Live_Dashboard-2dd4bf?style=for-the-badge"/></a>
+
+**👉 [Try the Live Dashboard](https://nikhilmore2003.github.io/Blinkit-Sales-Analysis-PowerBI/)**
+
 </div>
 
 ---
@@ -84,11 +88,9 @@ This dashboard solves that problem by converting raw sales data into interactive
 
 ## Main Dashboard
 
-> Replace this image with your dashboard screenshot.
+![Blinkit Sales Analysis Dashboard](site/powerbi-dashboard.jpg)
 
-```text
-Images/Dashboard Overview.png
-```
+🌐 **Interactive web version:** https://nikhilmore2003.github.io/Blinkit-Sales-Analysis-PowerBI/ with working filters, KPI cards and charts.
 
 ---
 
